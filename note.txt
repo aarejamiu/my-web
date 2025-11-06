@@ -1,0 +1,9 @@
+selectors
+element selectors
+class selectors
+id selectors
+font styling
+font family
+font cdn
+font size, style, weight, etc
+text decoration

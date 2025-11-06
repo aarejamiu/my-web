@@ -1,0 +1,46 @@
+*{
+     padding: 0;
+     margin: 0;
+}
+body {
+    background-color: #1a0000;
+    font-family: sans-serif;
+}
+
+header {
+    padding: 10px;
+    background-color: #201313;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav a{
+    padding: 10px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: red;
+    padding: 5px;
+}
+
+button {
+    padding: 7px 12px;
+    border-radius: 15px;
+}
+
+section {
+    color: white;
+    display: inline-block;
+    padding: 50px;
+}
+
+#aa {
+    background-color: #2f1c1c;
+}
