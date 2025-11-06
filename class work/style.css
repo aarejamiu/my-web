@@ -5,6 +5,7 @@
 body {
     background-color: #1a0000;
     font-family: sans-serif;
+    padding: 50px;
 }
 
 header {
@@ -16,6 +17,10 @@ header {
     justify-content: space-between;
 }
 
+main {
+    width: 1000px;
+    font-size: 20px;
+}
 nav a{
     padding: 10px;
 }
@@ -43,4 +48,16 @@ section {
 
 #aa {
     background-color: #2f1c1c;
+    padding: 15px;
+    margin-left: 40px;
+}
+
+#mm {
+    padding: 7px 12px;
+    border-radius: 15px;
+}
+
+footer {
+    color: white;
+    margin-left: 45px;
 }
